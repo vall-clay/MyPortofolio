@@ -1,0 +1,95 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #ccfbf1;
+}
+
+#project {
+  background-color: #ccfbf1;
+}
+
+section {
+  padding-top: 5rem;
+}
+.about1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+.about2 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+.bukanwibu {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.tentangaku {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+#namaku {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+#profesi {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+.navbar-brand {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  transition: transform 0.4s ease-in-out;
+}
+.navbar-brand:hover{
+    transform: scale(1.2);
+}
+#navbar-extra {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.aditya {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  color: #003940;
+}
+#navbar-extra :hover {
+  color: #005b66;
+  transition: color 0.4s ease-in-out;
+}
+.card {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+.myphotos {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.mycontact {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+#fotojumbotron {
+  transition: transform 0.4s ease-in-out;
+}
+
+#fotojumbotron:hover {
+  transform: scale(1.2);
+}
+.card {
+    transition: transform 0.4s ease-in-out;
+}
+.card:hover {
+    transform: scale(1.1);
+}
